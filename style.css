@@ -1,0 +1,108 @@
+body {
+    background-image: url('as the world cries bg.jpg');
+    background-attachment: fixed;
+    background-size: 2700px;
+    margin-top: 0;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    font-family: "Tirra", cursive;
+    text-align: left;
+
+}
+
+img as the world cries bg {
+    opacity: 50%;
+}
+
+#contexte,
+#pda,
+#presentation {
+    padding: 10px 30px 10px 30px;
+    background-color: rgba(0, 0, 0, 0.808);
+    width: 1000px;
+    margin: 0 auto;
+    min-height: 50vh;
+    line-height: 30px;
+}
+
+#titre {
+    text-align: center;
+    padding: 50px 50px;
+    font-weight: bold;
+    letter-spacing: 7px;
+    font-size: 60px;
+}
+
+iframe {
+    width: 100%;
+    max-width: 1000px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 0px;
+
+}
+
+h2 {
+    color: rgb(199, 228, 255);
+}
+
+
+#lore {
+    padding: 10px 30px 10px 30px;
+    background-color: rgba(0, 0, 0, 0.808);
+    width: 1000px;
+    margin: 0 auto;
+    min-height: 100vh;
+    line-height: 30px;
+}
+
+#chronolore {
+    color: rgb(199, 228, 255);
+    font-size: 30px;
+}
+
+#pda1,
+#pda2,
+#pda3,
+#pda4,
+#pda5,
+#pda6,
+#pda7,
+#pda8,
+#pda9,
+#pda10,
+#pda11,
+#pda12,
+#pda13,
+#pda14,
+#pda15 {
+    background-color: rgba(46, 65, 95, 0.85);
+    width: 80%;
+    /* taille de la boîte */
+    margin: 30px auto;
+    padding: 2px 30px;
+    border: 1px solid rgba(194, 218, 255, 0.5);
+    /* coins arrondis (optionnel) */
+}
+
+#Banque {
+    color: rgb(199, 228, 255);
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+
+#social {
+    position: absolute;
+    left: 2400px;
+    top: 50px;
+    position: fixed;
+}
+
+#social img {
+    clip-path: circle(50%);
+}
+
+#e {
+    text-align: center;
+    font-size: 25px;
+}
